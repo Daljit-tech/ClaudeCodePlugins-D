@@ -1,0 +1,6 @@
+{
+  "name": "backend-guardrails",
+  "version": "1.0.0",
+  "description": "DEMO ONLY. Windows-only (requires Git Bash and jq: winget install jqlang.jq). Hooks that protect config files, scan edited C# for risky patterns, and gate finish on build/tests. Not production-ready.",
+  "author": { "name": "D" }
+}

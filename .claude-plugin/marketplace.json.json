@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-plugin",
+  "owner": { "name": "D" },
+  "plugins": [
+    {
+      "name": "backend-guardrails",
+      "source": "./backend-guardrails",
+      "description": "DEMO ONLY. Windows-only, requires Git Bash and jq (winget install jqlang.jq)."
+    }
+  ]
+}
